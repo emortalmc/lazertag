@@ -31,7 +31,7 @@ spec:
         spec:
           containers:
             - name: lazertag
-              image: ghcr.io/emortalmc/lazertag:cf9c3e517de99ed422318aa4ff9b7597d8d1e41e
+              image: ghcr.io/emortalmc/lazertag:dfea3f6d238a7c0958f265705c53fc7e2a79ba23
 
               resources:
                 requests:
